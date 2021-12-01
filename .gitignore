@@ -1,0 +1,3 @@
+# Ignore everything but actual solutions
+day*/*
+!day*/*.hs
